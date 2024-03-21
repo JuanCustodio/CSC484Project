@@ -516,8 +516,9 @@ body {
   z-index: 1;
 }
 .home {
-  width: 100%;
+  width: 30%;
   position: relative;
+  align-items: center;
   border-radius: 25px;
   background-color: #424549;
   overflow: hidden;
